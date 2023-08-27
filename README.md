@@ -1,48 +1,38 @@
-# Welcome to [Astro](https://astro.build)
+# Astro Portfolio Website
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
+Welcome to the GitHub repository for my personal portfolio website built using Astro! This project serves as a showcase of my skills, projects, and experiences as a software engineer.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Features
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+- 🚀 Blazing-Fast Performance: The website is powered by Astro, ensuring that pages load quickly and provide an exceptional user experience.
+- 💡 Skill Showcase: Learn about my expertise in JavaScript, React, Next.js, Redux, TypeScript, and game development using Phaser.
+- 🎨 Project Highlights: Explore a collection of projects that demonstrate my technical abilities and creativity.
+- 🌟 Personal Journey: Get a glimpse into my professional growth and my passion for crafting exceptional digital experiences.
 
-## 🚀 Project Structure
+## Getting Started
 
-Inside of your Astro project, you'll see the following folders and files:
+1. **Clone the repository:**
 
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+   ```sh
+   git clone https://github.com/TsotneDarjania/astro-portfolio.git
+   cd astro-portfolio-website
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+   ```
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+2. **Install deendencies**
+   npm install
 
-Any static assets, like images, can be placed in the `public/` directory.
+3. **Run the Development Server**
+   npm run dev
 
-## 🧞 Commands
+Open your browser:
+Visit http://localhost:3000 to see the website in action!
 
-All commands are run from the root of the project, from a terminal:
+Contributing
+Contributions are always welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `npm install`          | Installs dependencies                              |
-| `npm run dev`          | Starts local dev server at `localhost:3000`        |
-| `npm run build`        | Build your production site to `./dist/`            |
-| `npm run preview`      | Preview your build locally, before deploying       |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
-| `npm run astro --help` | Get help using the Astro CLI                       |
+License
+This project is licensed under the MIT License.
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Explore the live website: https://github.com/TsotneDarjania/astro-portfolio.git
+Let's connect and collaborate to make the digital world even more exciting and innovative!
